@@ -1,8 +1,7 @@
-So, you want to break into tech as a data professional, but you don't want to break the bank? I have collected all of the links, resources, and suggestions I have received on my journey of breaking into the field (starting from being a complete beginner!) and I am sharing all of them with you now.
+So, you want to break into tech as a data professional?
 
-If you would like to see me document my entire journey from start to present, check out my Tik Tok @Anniesanalytics, my LinkedIn, and My Website where you can find my entire portfolio. I also have a blog on my website, where I have gone more into detail about various topics along the way. If you would like to see the post that specifically contains the Roadmap I followed to become a data analyst/Tableau consultant- here it is!
+Wondering, What path should I take?
 
-What path should I take?
 This is a complicated question, with no easy answer. Everyone's situation is different, and I cannot tell you what is going to work for you.
 
 First, you should make sure that you are actually interested in data- there are many non-coding niches within tech, make sure you pick the one that resonates most with you. Here are some articles that explore your options.
