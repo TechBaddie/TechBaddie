@@ -8,19 +8,12 @@ First, you should make sure that you are actually interested in data- there are 
 
 It is also worth your time to explore the difference between data science, and data analytics.
 
-How to get started
-As someone who is still fairly new to this, I understand completely how overwhelming it can be to try and get into this whole "data analytics" thing. There are so many options out there. Everyone talks about how you can learn all of these concepts for free online... but that leaves a lot of questions unanswered. Which topics? Where do I find these free resources? Will I be able to get a job without an official degree?
+<b> How to get started
 
-I do not have the answers to all of these questions. But- as of writing this I have 14,000 Tik Tok followers. I am in numerous LinkedIn groups. I have been collecting a lot of data points on the advice I have heard everyone giving, and here is what I learned: If you want to break into data analytics, you must know how to work with spreadsheets at a high level, learn SQL (sometimes pronounced sequel), and know how to create visualizations (Tableau is the most common way to do this). After reading about 100 job descriptions, you should also probably learn Python- but you should start with spreadsheets and SQL and build up from there. Everything else that I talk about in this guide will be optional, and depending on which direction you go in the field some will be more important than others.
-
-As for the getting a job without a degree question- I have been over this with hundreds of people at this point. The general consensus is that if you do a good job building your portfolio, have a good resume, and network, you can get a job without a degree. There are many people in the field whose highest "education level" is high school. That being said, obviously having a tech degree would be helpful. Additionally, if you do have a degree in another field, especially one such as a masters degree, it will probably help give you a competitive edge because it shows you have the capacity to learn. Your first job is just that- your first job! You can still break into the industry and build your way up from there.
-
-In addition, I would like to let you know that if you are just starting out on this journey of switching careers and jumping into data analytics/science and feeling overwhelmed- you are not alone! There are a lot of us in the same position right now. Please feel free to join the Discord Server I have created. I had never heard of Discord before a few months ago- so do not worry if you haven't. It is basically just another type of social media- but you get into communities focused around one subject. In our Discord (I moderate it with several others who are actually data pros) we have multiple channels on all sorts of different topics. You could ask a question about pretty much any corner of data analytics and have your question answered by someone who is actually in the field within a few days! It is an amazing resource and community, and I am so glad my followers asked me to make it!
-
-Table of Contents
+<b> Table of Contents
 In this guide, I will go over the following topics. If you want to skip ahead to a specific one, click on it and you will be brought there! (Neat trick I learned)
 
-Courses- Free and Paid
+<b> Courses- Free and Paid
 Spreadsheets
 SQL
 Tableau
