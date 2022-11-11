@@ -1,4 +1,4 @@
-So, you want to break into tech as a data professional?
+<h3> So, you want to break into tech as a data professional?
 
 Wondering, What path should I take?
 
