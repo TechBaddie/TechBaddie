@@ -1,4 +1,4 @@
-<h3> So, you want to break into tech as a data professional?
+<h3>So, you want to break into tech as a data professional?
 
 Wondering, What path should I take?
 
@@ -8,12 +8,12 @@ First, you should make sure that you are actually interested in data- there are 
 
 It is also worth your time to explore the difference between data science, and data analytics.
 
-<b> How to get started
+How to get started
 
-<b> Table of Contents
+Table of Contents
 In this guide, I will go over the following topics. If you want to skip ahead to a specific one, click on it and you will be brought there! (Neat trick I learned)
 
-<b> Courses- Free and Paid
+Courses- Free and Paid
 Spreadsheets
 SQL
 Tableau
