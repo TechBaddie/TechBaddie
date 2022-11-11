@@ -1,14 +1,16 @@
-<h3>So, you want to break into tech as a data professional?
+<b>So, you want to break into tech as a data professional?<b>
 
-Wondering, What path should I take?
+<head> Wondering, What path should I take?
 
 This is a complicated question, with no easy answer. Everyone's situation is different, and I cannot tell you what is going to work for you.
 
+  <body>
+    
 First, you should make sure that you are actually interested in data- there are many non-coding niches within tech, make sure you pick the one that resonates most with you. Here are some articles that explore your options.
 
 It is also worth your time to explore the difference between data science, and data analytics.
 
-How to get started
+<strong> How to get started
 
 Table of Contents
 In this guide, I will go over the following topics. If you want to skip ahead to a specific one, click on it and you will be brought there! (Neat trick I learned)
